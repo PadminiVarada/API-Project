@@ -1,4 +1,5 @@
 /* Requirements
+//get
 
 books :
 we need an API
@@ -17,9 +18,26 @@ we need an API
  a. To get all publications
  b. to get specific publication based on ID
  c.To get all publications based on books
+ d.to get respective publication based on some condition
 
 
- 
+ //post-REQUEST
+ a. add a new books
+ b.add a new author
+ c. add a new publication
+
+
+ //put
+   to update/add a publication database
+
+   //delete
+   a.to delete a books
+   b.to delete a author from books
+   c. to delete a author from book and delete a respective book from that author
+
+
+
+
 
 
 
